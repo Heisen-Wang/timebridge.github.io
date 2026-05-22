@@ -1,0 +1,42 @@
+<svg width="1200" height="860" viewBox="0 0 1200 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="860" rx="40" fill="#FBF6EE"/>
+  <rect x="36" y="36" width="1128" height="788" rx="30" fill="url(#paint0_linear)"/>
+  <circle cx="183" cy="177" r="102" fill="#F6CDB0" fill-opacity="0.7"/>
+  <circle cx="1018" cy="151" r="86" fill="#E8D67D" fill-opacity="0.5"/>
+  <circle cx="1048" cy="703" r="98" fill="#D99979" fill-opacity="0.32"/>
+  <rect x="87" y="113" width="250" height="520" rx="24" fill="#FFF9F2" stroke="#D2C2AC" stroke-width="2"/>
+  <rect x="475" y="113" width="250" height="520" rx="24" fill="#FFF9F2" stroke="#D2C2AC" stroke-width="2"/>
+  <rect x="863" y="113" width="250" height="520" rx="24" fill="#FFF9F2" stroke="#D2C2AC" stroke-width="2"/>
+  <rect x="115" y="144" width="194" height="29" rx="14.5" fill="#F0E6D8"/>
+  <rect x="505" y="144" width="190" height="29" rx="14.5" fill="#F0E6D8"/>
+  <rect x="891" y="144" width="194" height="29" rx="14.5" fill="#F0E6D8"/>
+  <path d="M165 485C205.532 417.709 262.873 381.859 306 367V595H123C123 566.5 131.938 539.893 165 485Z" fill="#E19D73"/>
+  <path d="M147 468C193.5 509 228.5 512 259.5 497.5C290.5 483 282.5 428.5 306 367V595H123C123 566.5 131.938 539.893 147 468Z" fill="#B34F2B"/>
+  <circle cx="235" cy="293" r="54" fill="#DD8A5F"/>
+  <ellipse cx="232.5" cy="301" rx="85.5" ry="46" fill="#8B3920"/>
+  <path d="M555 535C596.5 475 631 412.5 700 364V595H499C499 572 508.5 556 555 535Z" fill="#D4784C"/>
+  <path d="M526 497C549.5 432 643.5 396.5 700 364V595H499C499 572 511 539.841 526 497Z" fill="#7A2E18"/>
+  <circle cx="622" cy="280" r="59" fill="#E3B36E"/>
+  <path d="M563 299.5C612.198 247.679 663.538 235.999 712 252.5V333H563V299.5Z" fill="#B44B27"/>
+  <path d="M928 507C972.5 424.5 1040.84 375.385 1088 348V595H899C899 559.5 905 549 928 507Z" fill="#CE6E4D"/>
+  <path d="M917 474C967 510 1008.5 508.5 1044 489.5C1079.5 470.5 1054.5 415.5 1088 348V595H899C899 559.5 905 549 917 474Z" fill="#A84524"/>
+  <circle cx="1000" cy="264" r="52" fill="#F0C86A"/>
+  <ellipse cx="1007" cy="270.5" rx="92" ry="48.5" fill="#7B301A"/>
+  <path d="M340 373H450" stroke="#9C4527" stroke-width="6" stroke-linecap="round" stroke-dasharray="10 14"/>
+  <path d="M728 373H838" stroke="#9C4527" stroke-width="6" stroke-linecap="round" stroke-dasharray="10 14"/>
+  <path d="M428.5 373L392.5 352.215L392.5 393.785L428.5 373Z" fill="#9C4527"/>
+  <path d="M816.5 373L780.5 352.215L780.5 393.785L816.5 373Z" fill="#9C4527"/>
+  <rect x="150" y="671" width="140" height="40" rx="20" fill="#F6EBDD"/>
+  <rect x="537" y="671" width="130" height="40" rx="20" fill="#F6EBDD"/>
+  <rect x="935" y="671" width="132" height="40" rx="20" fill="#F6EBDD"/>
+  <text x="179" y="697" fill="#7A3119" font-family="Arial, sans-serif" font-size="26" font-weight="700">START</text>
+  <text x="566" y="697" fill="#7A3119" font-family="Arial, sans-serif" font-size="26" font-weight="700">BRIDGE</text>
+  <text x="976" y="697" fill="#7A3119" font-family="Arial, sans-serif" font-size="26" font-weight="700">END</text>
+  <text x="111" y="790" fill="#5B5143" font-family="Arial, sans-serif" font-size="26">Replace this SVG with your final teaser figure if desired.</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="86" y1="64" x2="1091" y2="784" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF9F0"/>
+      <stop offset="1" stop-color="#F3E6D3"/>
+    </linearGradient>
+  </defs>
+</svg>
